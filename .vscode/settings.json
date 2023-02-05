@@ -1,0 +1,10 @@
+{
+	"gitConfigUser.profiles": [
+		{
+			"label": "Work",
+			"email": "hardik@vmukti.com",
+			"userName": "Hardik Sanghvi",
+			"selected": true
+		}
+	]
+}
